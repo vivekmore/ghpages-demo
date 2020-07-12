@@ -1,6 +1,7 @@
 # GhpagesDemo
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.1.
+[Reference](https://taitruong.github.io/software-developer.org/post/2018/10/03/github-page-with-angular-and-markdown/)
 
 ## Development server
 
